@@ -1,4 +1,4 @@
-var a = "who all are coming to the party and merry around in somewhere";
+var a = "this is a sentence to be used to reverse the words";
 
 res = "";
 resarr = [];
